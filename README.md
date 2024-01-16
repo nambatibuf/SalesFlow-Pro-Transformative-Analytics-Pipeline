@@ -34,7 +34,36 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 ### The Grand Kickoff:
 
 - The `intial_kick` function initiates the project with finesse. It creates the 'retail' dataset, archives an initial file, and performs crucial setup tasks to lay the foundation for success.
+- 
+### Project Structure
 
+- **.astro:** Contains configuration files for Astro, including database connection details and file definitions.
+
+- **dags:** Holds the Apache Airflow DAG (Directed Acyclic Graph) definitions for the sales analytics pipeline.
+
+- **include:** Stores additional files or datasets used in the project.
+
+- **plugins:** Contains any custom Airflow plugins that enhance functionality.
+
+- **tests:** Houses test cases for ensuring code quality and reliability.
+
+- **venv:** Virtual environment for managing project dependencies.
+
+- **.dockerignore:** Specifies files and directories to be excluded when building Docker images.
+
+- **.env:** Configuration file for environment variables.
+
+- **.gitignore:** Defines files and directories to be ignored by Git.
+
+- **airflow_settings.yaml:** Configuration file for Airflow settings.
+
+- **Dockerfile:** Instructions for building a Docker image of the project.
+
+- **packages.txt:** List of Python packages and dependencies.
+
+- **README.md:** Main documentation file providing an overview, usage instructions, and other project details.
+
+- **requirements.txt:** Specifies Python packages and versions required for the project.
 ### Usage
 
 1. Clone the repository:
