@@ -69,7 +69,7 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 
 ### Airflow DAG Graph View
 
-![Airflow DAG](screenshots/airflow_dag.png)
+![image](https://github.com/nambatibuf/SalesFlow-Pro-Transformative-Analytics-Pipeline/assets/130098870/5eaf6870-3385-4469-baa4-a221ae768369)
 
 ### Looker Studio Dashboard
 
@@ -77,15 +77,15 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 
 ### Google Cloud Storage (GCS) Bucket
 
-![GCS Bucket](screenshots/gcs_bucket.png)
+![image](https://github.com/nambatibuf/SalesFlow-Pro-Transformative-Analytics-Pipeline/assets/130098870/ba0577c2-23e8-4309-8018-b0c02c308a2c)
 
 ### BigQuery Console
 
-![BigQuery Console](screenshots/bigquery_console.png)
+![image](https://github.com/nambatibuf/SalesFlow-Pro-Transformative-Analytics-Pipeline/assets/130098870/d5b11c75-984b-40be-a2f6-428cb4362ea8)
 
-### Command Line Execution
+### Archiving Files
+![image](https://github.com/nambatibuf/SalesFlow-Pro-Transformative-Analytics-Pipeline/assets/130098870/83403326-9f85-489e-9919-e6d08bbcd85f)
 
-![Command Line](screenshots/command_line_execution.png)
 ### Usage
 
 1. Clone the repository:
