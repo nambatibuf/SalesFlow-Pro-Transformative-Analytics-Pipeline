@@ -14,9 +14,15 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
   - Task: `load_csv`
   - Description: Transforms the uploaded CSV data into the raw_invoices table in BigQuery, unleashing the power of cloud-based data processing.
 
+-  **SODA Data Validation:**
+   - Utilizes SODA (Socrata Open Data API) to perform data validation checks, ensuring adherence to predefined quality standards.
+
 - **Query Execution and Result Storage:**
   - Task: `execute_query_save`
   - Description: Executes a strategic SQL query to calculate total purchases and meticulously stores the results in the Sales_Data table.
+
+- **BigQuery Constraints:**
+   - Implements constraints within BigQuery tables to enforce data integrity at the storage level.
 
 - **Archiving Excellence:**
   - Task: `archive_files`
@@ -25,6 +31,10 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 - **Looker Studio Integration:**
   - Dashboard: A Google Looker Studio dashboard has been created, connecting seamlessly to the data fact table for insightful visualizations.
 
+- **Looker Studio Data Integrity:**
+   - Leverages Looker Studio's built-in data validation features to monitor and verify the integrity of data visualizations.
+
+3.
 ### DAG Schedule and Initialization:
 
 - **Start Date:** December 1, 2023
