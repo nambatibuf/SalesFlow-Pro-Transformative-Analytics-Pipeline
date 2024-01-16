@@ -64,6 +64,28 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 - **README.md:** Main documentation file providing an overview, usage instructions, and other project details.
 
 - **requirements.txt:** Specifies Python packages and versions required for the project.
+
+- ## Screenshots
+
+### Airflow DAG Graph View
+
+![Airflow DAG](screenshots/airflow_dag.png)
+
+### Looker Studio Dashboard
+
+![Looker Studio Dashboard](screenshots/looker_dashboard.png)
+
+### Google Cloud Storage (GCS) Bucket
+
+![GCS Bucket](screenshots/gcs_bucket.png)
+
+### BigQuery Console
+
+![BigQuery Console](screenshots/bigquery_console.png)
+
+### Command Line Execution
+
+![Command Line](screenshots/command_line_execution.png)
 ### Usage
 
 1. Clone the repository:
