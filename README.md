@@ -34,7 +34,6 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 - **Looker Studio Data Integrity:**
    - Leverages Looker Studio's built-in data validation features to monitor and verify the integrity of data visualizations.
 
-3.
 ### DAG Schedule and Initialization:
 
 - **Start Date:** December 1, 2023
