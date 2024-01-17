@@ -100,7 +100,7 @@ Welcome to "SalesFlow Pro," a dynamic analytics pipeline designed to revolutioni
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/salesflow-pro.git
+    git clone https://github.com/nambatibuf/SalesFlow-Pro-Transformative-Analytics-Pipeline.git
     ```
 
 2. Install dependencies:
