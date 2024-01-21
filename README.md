@@ -131,6 +131,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Credits
 
-- Mention any contributors or external libraries/tools used in the project.
-
 Embark on a journey of sales data excellence with "SalesFlow Pro: Transformative Analytics Pipeline"! Customize and adapt as needed for your project's unique achievements and impact.
